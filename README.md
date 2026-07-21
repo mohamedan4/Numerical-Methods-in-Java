@@ -18,7 +18,7 @@ Each algorithm is implemented in a separate Java file and can be executed indepe
 
 ---
 
-## 🚀 Features
+## Features
 
 - Implemented using **Java**
 - Each algorithm is contained in its own Java file
@@ -63,7 +63,7 @@ Example output from the **Newton-Raphson Method**, showing the iteration process
 
 ---
 
-## 💻 Technologies Used
+## Technologies Used
 
 - **Java**
 - **Object-Oriented Programming (OOP)**
@@ -82,7 +82,7 @@ Through this project, I gained practical experience in:
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Mohammed Alansary**
 
