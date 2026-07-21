@@ -50,7 +50,7 @@ Numerical-Methods/
 
 Example output from the **Newton-Raphson Method**, showing the iteration process and convergence.
 
-![Newton-Raphson-Output](Images/Newton-Raphson-output.png)
+![Newton-Raphson-Output](../images/Newton-Raphson-output.png)
 
 ---
 
